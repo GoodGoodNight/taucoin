@@ -1,15 +1,13 @@
 #!/bin/bash
 #Bash script to automatically download all Taucoin dependancies ,build it and install it
 #Should work on any debian based distro and fully tested on ubuntu 12.xx-14.xx-16.xx
-#by : lod
-echo " _        _______  ______  "
-echo "( \      (  ___  )(  __  \ "
-echo "| (      | (   ) || (  \  )"
-echo "| |      | |   | || |   ) |"
-echo "| |      | |   | || |   | |"
-echo "| |      | |   | || |   ) |"
-echo "| (____/\| (___) || (__/  )"
-echo "(_______/(_______)(______/ "
+#by : lod 
+echo "  ______                       _     "
+echo " /_  __/___ ___  ___________  (_)___ "
+echo "  / / / __ `/ / / / ___/ __ \/ / __ \"
+echo " / / / /_/ / /_/ / /__/ /_/ / / / / /"
+echo "/_/  \__,_/\__,_/\___/\____/_/_/ /_/ "
+echo ""
 echo ""
 echo "Tau Automaic installer By LOD"
 echo "this will take some time depending on your CPU/RAM/Internet speed"
